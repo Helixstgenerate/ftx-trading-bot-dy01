@@ -1,4 +1,4 @@
-# 
+# rare ftx trading bot Strategy | leverage-management + position-sizing is the best ftx trading bot, featuring leverage-management and position-sizing. Smart, fast, and optimized
 
 
 
